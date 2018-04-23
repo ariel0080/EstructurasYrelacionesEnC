@@ -1,15 +1,24 @@
 # depslib dependency file v1.0
-1524491764 source:c:\test\estructurasyrelacionesenc\gerflix2.0\serie.c
+1524495427 source:c:\test\estructurasyrelacionesenc\gerflix2.0\serie.c
+	"serie.h"
 	"serie.h"
 
-1524486917 source:c:\test\estructurasyrelacionesenc\gerflix2.0\usuario.c
+1524492741 source:c:\test\estructurasyrelacionesenc\gerflix2.0\usuario.c
+	"usuario.h"
 
-1524486917 source:c:\test\estructurasyrelacionesenc\gerflix2.0\usuarioserie.c
+1524493483 source:c:\test\estructurasyrelacionesenc\gerflix2.0\usuarioserie.c
+	"usuarioSerie.h"
 
-1524491961 source:c:\test\estructurasyrelacionesenc\gerflix2.0\main.c
+1524494952 source:c:\test\estructurasyrelacionesenc\gerflix2.0\main.c
 	<stdio.h>
 	<stdlib.h>
 	"serie.h"
+	"usuario.h"
+	"usuarioSerie.h"
 
 1524491034 c:\test\estructurasyrelacionesenc\gerflix2.0\serie.h
+
+1524486917 c:\test\estructurasyrelacionesenc\gerflix2.0\usuario.h
+
+1524490160 c:\test\estructurasyrelacionesenc\gerflix2.0\usuarioserie.h
 
