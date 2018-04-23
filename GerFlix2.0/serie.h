@@ -6,5 +6,6 @@ typedef struct{
     char genero[50];
 }eSerie;
 
+void CrearListadoSeries(eSerie array[],int );
 
 #endif // SERIE_H_INCLUDED
